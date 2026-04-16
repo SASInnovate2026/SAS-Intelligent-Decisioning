@@ -11,7 +11,7 @@ If you decide to run anything found on this site in your own SAS environment you
 
 ## Session Information
 Estimated Duration: 45 minutes of content and demo.<br>
-SAS Viya Cadence: 2026.02 Stable​.
+SAS Viya Cadence: 2026.03 Stable (March 2026)​.
 
 ## Thank You
 Thank you for attending this session. Please leave feedback at the end.
