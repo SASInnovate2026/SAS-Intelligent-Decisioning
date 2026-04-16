@@ -1,5 +1,6 @@
 # SAS® Intelligent Decisioning
-SAS® Intelligent Decisioning helps you make automated, data-driven decisions in real time. Attend this session to learn how a predictive model created in SAS® Model Studio and python code can be used in a decision flow.
+SAS® Intelligent Decisioning helps you make automated, data-driven decisions in real time. The demo in this session creates a Loan Request decision flow.  This decision flow uses several different objects such as a Variable assignment, SAS Model, Assignment Rulesets, a Yes/No Branch, a Data Query to an Oracle database, Python code, and a Segmentation tree.
+
 
 ## Important Information
 All content within this site is Copyright © SAS Institute Inc. All Rights Reserved.
